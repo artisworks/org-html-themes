@@ -1,0 +1,18 @@
+# -*- mode: org; -*-
+
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \pretitle{ \begin{center} \LARGE \includegraphics[width=4cm]{ArtisWorks_Grey_Transparency_RGB.png}\\[\bigskipamount]}\posttitle{\end{center}}
+#+LATEX_HEADER: \definecolor{artisorange}{RGB}{255,116,0}
+#+LATEX_HEADER: \let\oldheadrule\headrule
+#+LATEX_HEADER: \renewcommand{\headrule}{\color{artisorange}\oldheadrule}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0.5pt}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \chead{}
+#+LATEX_HEADER: \lhead{\includegraphics[width=3cm]{ArtisWorks_Grey_Transparency_RGB.png}}
+#+LATEX_HEADER: \rhead{}
+#+LATEX_HEADER: \cfoot{\thepage}
+#+LATEX_HEADER: \lfoot{}
+#+LATEX_HEADER: \rfoot{}
+#+LATEX_HEADER: \thispagestyle{empty}
