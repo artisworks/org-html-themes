@@ -7,3 +7,8 @@
 #+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://artisworks.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://artisworks.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+
+#+HTML_HEAD: <style> #content{max-width:1200px;}</style>
+#+HTML_HEAD: <style> p{max-width:800px;}</style>
+#+HTML_HEAD: <style> li{max-width:800px;}</style>
+#+HTML_HEAD: <style> pre.src { background:#1f1d1d !important; color: white !important;} </style>
