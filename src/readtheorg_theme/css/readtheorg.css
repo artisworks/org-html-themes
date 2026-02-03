@@ -1142,3 +1142,12 @@ h2.footnotes{
     padding: 9px 12px;
     margin-bottom: 24px;
     font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif}
+
+#company {
+    text-align: center;
+}
+
+#company.logo {
+    padding-top: 30px;
+    width: 70%
+}
